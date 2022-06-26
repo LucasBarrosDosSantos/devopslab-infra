@@ -1,5 +1,5 @@
 resource "google_app_engine_application" "app" {
-  project     = "DEFINIR"
+  project     = "devops-fiap-lab"
   location_id = "us-central"
 }
 
